@@ -1,4 +1,4 @@
-package com.example.coach.controleur.modele;
+package com.example.coach.coach.modele;
 
 import junit.framework.TestCase;
 

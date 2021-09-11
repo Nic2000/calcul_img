@@ -1,6 +1,5 @@
-package com.example.coach.controleur.controleur;
-
-import com.example.coach.controleur.modele.Profil;
+package com.example.coach.controleur;
+import com.example.coach.modele.Profil;
 
 public final class Controle {
     private static Controle instance = null;

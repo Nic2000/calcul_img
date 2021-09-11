@@ -1,5 +1,4 @@
-package com.example.coach.controleur.modele;
-
+package com.example.coach.modele;
 public class Profil {
     //constantes
     public static final Integer minFemme = 15;
